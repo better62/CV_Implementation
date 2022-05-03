@@ -11,6 +11,10 @@
 
 
 논문에서 제안한 방식으로 crop 한 후
+
+
+
+
 ![image](https://user-images.githubusercontent.com/63288666/166422377-72c835b6-c354-4e65-a815-f99fc3b97d29.png)
 ![image](https://user-images.githubusercontent.com/63288666/166422390-553bb72e-4719-4bba-9634-013499a18929.png)
 
