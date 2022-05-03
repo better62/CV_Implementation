@@ -1,4 +1,4 @@
-# CV_Implementation
+# CutMix
 
 기존의 2개의 이미지가 있을 때
 
