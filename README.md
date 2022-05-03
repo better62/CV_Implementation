@@ -1,4 +1,4 @@
-# CutMix
+# CutMix - Augmentation
 
 기존의 2개의 이미지가 있을 때
 
