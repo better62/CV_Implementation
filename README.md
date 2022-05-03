@@ -14,10 +14,12 @@
 
 
 
-
 ![image](https://user-images.githubusercontent.com/63288666/166422377-72c835b6-c354-4e65-a815-f99fc3b97d29.png)
 ![image](https://user-images.githubusercontent.com/63288666/166422390-553bb72e-4719-4bba-9634-013499a18929.png)
 
 
 합치기
+
+
+
 ![image](https://user-images.githubusercontent.com/63288666/166422397-fb956d82-d239-418c-ac09-fa7d43c858fd.png)
